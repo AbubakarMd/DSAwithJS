@@ -42,12 +42,12 @@ Examples of few Data structure are: <br>
 <br>
 
 **Algorithm**
-Few algorithm used to solve problems are:
-> searching
-> sorting
-> recursion
-> pattern search
-> Divide and conquer
-> Bitwise
-> greedy
-> Dynamic Programming
+Few algorithm used to solve problems are:<br>
+> searching<br>
+> sorting<br>
+> recursion<br>
+> pattern search<br>
+> Divide and conquer<br>
+> Bitwise<br>
+> greedy<br>
+> Dynamic Programming<br>

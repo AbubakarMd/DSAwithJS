@@ -27,3 +27,27 @@ O(N^2)<br>
 O(N!)<br>
 
 <br><br>
+
+
+**Data Structure**
+Examples of few Data structure are: <br>
+> Array<br>
+> string<br>
+> Linked List<br>
+> queue<br>
+> Hash<br>
+> Tree<br>
+> Graph<br>
+
+<br>
+
+**Algorithm**
+Few algorithm used to solve problems are:
+> searching
+> sorting
+> recursion
+> pattern search
+> Divide and conquer
+> Bitwise
+> greedy
+> Dynamic Programming

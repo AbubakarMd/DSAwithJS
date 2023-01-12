@@ -26,7 +26,7 @@ O(N log N)<br>
 O(N^2)<br>
 O(N!)<br>
 
-<br><br>
+<br>
 
 
 **Data Structure**

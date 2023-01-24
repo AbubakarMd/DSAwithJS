@@ -6,7 +6,7 @@ var fib = function(n) {
         sum = sum + y; 
         y = sum - y;
     }
-    console.log(sum)
+    console.log(sum);
 };
 
 fib(7); 

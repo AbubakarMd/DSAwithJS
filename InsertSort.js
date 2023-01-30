@@ -13,5 +13,5 @@ function sorting(arr) {
     }
 }
 arr = [3, 7, 1, 2, 0]
-sorting(arr)
+sorting(arr);
 console.log(arr);
